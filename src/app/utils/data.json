@@ -1,0 +1,72 @@
+[
+  {
+    "day": "Monday",
+    "hours": 5,
+    "income": {
+      "cayoPericoHeist": 2600000,
+      "payphoneHit": 170000,
+      "drDreContract": 0
+      },
+    "level": 50
+  },
+  {
+    "day": "Tuesday",
+    "hours": 6,
+    "income": {
+      "cayoPericoHeist": 2600000,
+      "payphoneHit": 170000,
+      "drDreContract": 1000000
+    },
+    "level": 53
+  },
+  {
+    "day": "Wednesday",
+    "hours": 3,
+    "income": {
+      "cayoPericoHeist": 1300000,
+      "payphoneHit": 85000,
+      "drDreContract": 0
+    },
+    "level": 54
+  },
+  {
+    "day": "Thursday",
+    "hours": 7,
+    "income": {
+      "cayoPericoHeist": 2600000,
+      "payphoneHit": 255000,
+      "drDreContract": 1000000
+    },
+    "level": 57
+  },
+  {
+    "day": "Friday",
+    "hours": 5,
+    "income": {
+      "cayoPericoHeist": 2600000,
+      "payphoneHit": 170000,
+      "drDreContract": 0
+    },
+    "level": 60
+  },
+  {
+    "day": "Saturday",
+    "hours": 9,
+    "income": {
+      "cayoPericoHeist": 3900000,
+      "payphoneHit": 255000,
+      "drDreContract": 2000000
+    },
+    "level": 65
+  },
+  {
+    "day": "Sunday",
+    "hours": 6,
+    "income": {
+      "cayoPericoHeist": 2600000,
+      "payphoneHit": 170000,
+      "drDreContract": 1000000
+    },
+    "level": 68
+  }
+]
